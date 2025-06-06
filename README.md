@@ -323,4 +323,8 @@ ChatInteraction {
 ```
 
 </details>
----
+
+
+--- 
+
+This project is part of IEEE IAMPro Internship Program 2025.
